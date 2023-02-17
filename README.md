@@ -1,6 +1,9 @@
 # sipper
 sipper is an ip adress information and lookup tool coded in python uses an api to get information.
 whic is free to use.
+
+![sipper](https://media.discordapp.net/attachments/1071886678232420464/1076217046041362564/IMG_20230217_220114.jpg)
+
 #### ⚠️ | Educational purposes only
 > this script is owned by SqLoSt (as an developer and copyright owner) ,
 you are free to **share** , **modify** and **use** this code but only for **educational purposes**
